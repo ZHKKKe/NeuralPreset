@@ -1,6 +1,14 @@
-<h2 align="center">Neural Preset</h2>
+<h2 align="center">Neural Preset: Faithful 4K Color Style Transfer in Real Time</h2>
 
-<p align="center"><i>Neural Preset for Color Style Transfer (CVPR 2023)</i></p>
+<div align="center"><i>Neural Preset for Color Style Transfer (CVPR 2023)</i></div>
+
+<br>
+
+<img src="assets/teaser.gif" width="100%">
+
+<div align="center">Retouch Photos & Videos with AI-Generated Color Presets</div>
+
+<br>
 
 <p align="center">
   <a href="">Paper</a> |
@@ -19,14 +27,6 @@
   <a href="#citation">Citation</a> |
   <a href="#contact">Contact</a>
 </p>
-
-
-<div align="center">Faithful 4K Color Style Transfer in Real Time</div>
-<div align="center">Retouch Photos & Videos with AI-Generated Color Presets</div>
-
-<br>
-
-<img src="assets/teaser.gif" width="100%">
 
 
 ---
