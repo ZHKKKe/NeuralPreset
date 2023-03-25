@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="">Paper</a> |
+  <a href="https://arxiv.org/abs/2303.13511">Paper</a> |
   <a href="https://zhkkke.github.io/NeuralPreset">Project Page</a> |
   <a href="https://youtu.be/GgLKCrVv3yA">Supplemental Video</a>
 </p>
