@@ -41,8 +41,9 @@ Please use our [Online Demo](https://zhkkke.github.io/NeuralPreset/#/editor) or 
 
 
 ## Video Stylization Demo
-Coming Soon. Stay tuned.
-
+~~Coming Soon.~~  
+I accidentally deleted the implemented video demo code... and I cannot find any backup.  
+I am too busy to re-implement it recently, so the release of video demo is delayed.
 
 ## License
 This project is released under the [Creative Commons Attribution NonCommercial ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license.
