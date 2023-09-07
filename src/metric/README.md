@@ -5,7 +5,7 @@
 ---
 
 ## Metrics
-We provide code/model of the metrics we used in our paper. The following are the commands to calculate the metrics. Please refer to the code for details.
+We provide code/models of the metrics we used in our paper. The following are the commands for calculating the metrics. Please refer to the code for details.
 
 ### Style Similiary Metric
 ```
