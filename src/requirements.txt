@@ -1,0 +1,6 @@
+tqdm
+numpy
+Pillow
+scikit-image
+opencv-python
+onnxruntime-gpu

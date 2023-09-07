@@ -18,8 +18,8 @@
 
 <p align="center">
   <a href="#image-stylization-demo">Image Stylization Demo</a> |
-  <a href="#video-stylization-demo">Video Stylization Demo</a> |
-  <a href="https://apps.apple.com/us/app/tinge-creative-photo-filters/id6445956281">iOS App</a>
+  <a href="#video-stylization-demo">Video Stylization Demo</a>
+  <!-- | <a href="https://apps.apple.com/us/app/tinge-creative-photo-filters/id6445956281">iOS App</a> -->
 </p>
 
 <p align="center">
@@ -33,24 +33,24 @@
 
 
 ## News
-Please refer to our [Project Page](https://zhkkke.github.io/NeuralPreset) for details. More resources will be released.
+- [Sep. 2023] Metrics used in our paper are released. Please refer to [this README file](src/metric/README.md).
 
 
 ## Image Stylization Demo
-Please use our [Online Demo](https://zhkkke.github.io/NeuralPreset/#/editor) or [iOS App](https://apps.apple.com/us/app/tinge-creative-photo-filters/id6445956281) for image color style transfer.
+Please use our [Online Demo](https://zhkkke.github.io/NeuralPreset/#/editor) for image color style transfer.
+<!-- or [iOS App](https://apps.apple.com/us/app/tinge-creative-photo-filters/id6445956281)  -->
+
 
 
 ## Video Stylization Demo
-~~Coming Soon.~~  
-I accidentally deleted the implemented video demo code... and I cannot find any backup.  
-I am too busy to re-implement it recently, so the release of video demo is delayed.
+TBD
 
 ## License
 This project is released under the [Creative Commons Attribution NonCommercial ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license.
 
 
 ## Citation
-If this work helps your research, please consider to cite:
+If this work helps your research or if you use any resources in this repository, please consider to cite:
 
 ```bibtex
 @InProceedings{NeuralPreset,
